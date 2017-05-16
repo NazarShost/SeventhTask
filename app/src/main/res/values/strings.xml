@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Seventh Task</string>
+    <string-array name="NamesPhone">
+        <item>Nexus 5</item>
+        <item>Xiami Mi 5</item>
+        <item>IPhone 5</item>
+        <item>Record</item>
+        <item>Info</item>
+        <item>Music</item>
+        <item>Custom Dialog</item>
+        <item>Exit</item>
+    </string-array>
+    <string-array name="hello_world">
+        <item>Hello World</item>
+        <item>Hallo Welt</item>
+        <item>Witaj Świecie</item>
+    </string-array>
+    <string name="Processor">CPU</string>
+    <string name="ProcessorNexus">2.26GHz quad-core</string>
+    <string name="ProcessorIPhone">1.3GHz dual-core</string>
+    <string name="ProcessorXiami">1.3GHz quad-core</string>
+    <string name="Procmake">Processor make</string>
+    <string name="ProcmakeNexus">Qualcomm Snapdragon 800</string>
+    <string name="ProcmakeIPhone">Apple A6</string>
+    <string name="ProcmakeXiami">Qualcomm Snapdragon 820</string>
+    <string name="GPU">GPU</string>
+    <string name="GPUNexus">Adreno 330</string>
+    <string name="GPUIPhone">PowerVR SGX543MP3</string>
+    <string name="GPUXiami">Adreno 530</string>
+    <string name="Size">Size</string>
+    <string name="SizeNexus">4.95</string>
+    <string name="SizeIPhone">4.00</string>
+    <string name="SizeXiami">5.15</string>
+    <string name="RAM">RAM</string>
+    <string name="RAMNexus">2GB</string>
+    <string name="RAMIPhone">1GB</string>
+    <string name="RAMXiami">3GB</string>
+    <string name="Storage">Internal storage</string>
+    <string name="StorageNexus">16GB</string>
+    <string name="StorageIPhone">16GB</string>
+    <string name="StorageXiami">32GB</string>
+    <string name="Resolution">Resolution</string>
+    <string name="ResolutionNexus">1080x1920 pixels</string>
+    <string name="ResolutionIPhone">	640x1136 pixels</string>
+    <string name="ResolutionXiami">1080x1920 pixels</string>
+</resources>
